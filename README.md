@@ -1,4 +1,3 @@
-# 面向企业文档的智能知识库问答系统
 
 # 面向企业文档的智能知识库问答系统
 
@@ -9,8 +8,6 @@
 <p align="center">
   <img src="assets/images/qa_result.png" width="900">
 </p>
-
-## 一、项目简介
 
 ## 一、项目简介
 
