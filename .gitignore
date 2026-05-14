@@ -1,0 +1,26 @@
+# Python 虚拟环境
+.venv/
+venv/
+
+# 环境变量与密钥
+.env
+
+# 上传数据文件
+data/
+vector_db/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit 缓存
+.streamlit/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# VS Code 临时配置
+.vscode/
